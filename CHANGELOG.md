@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Jan 20 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Frappe docker install files ([@arjunlubana](https://github.com/arjunlubana))
+
+#### Authors: 1
+
+- Arjun Lubana ([@arjunlubana](https://github.com/arjunlubana))
+
+---
+
 # v0.0.1 (Sat Jan 20 2024)
 
 :tada: This release contains work from a new contributor! :tada:
